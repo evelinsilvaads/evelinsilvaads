@@ -49,7 +49,8 @@ Me chamo Evelin da Silva, tenho 25 anos e sou do Rio de Janeiro. Atualmente, est
     align="right"
     alt="Avatar"
     title="Avatar"
-    width="100" height="300" alt="ChatGPT Image 5 de set  de 2025, 14_24_28" 
+    width="100" 
+    height="300" 
     src="https://github.com/user-attachments/assets/e0a55075-5877-4b2c-bd8a-858faabda707" />
 <br/>
 <br/>
